@@ -4,6 +4,6 @@ public class HelloGit {
 	public static void main (String [] args) {
 		System.out.println("Hello git!!!");
 		
-		System.out.println("Questa è una stampa in più!!!");
+		System.out.println("Questa è una nuova stampa fatta per simulare la modifica simultanea di una riga di codice!");
 	}
 }
